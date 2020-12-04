@@ -1,21 +1,21 @@
-# Hey! I'm Malolan!
+# <span style="color: #00abcd">Hey! I'm Malolan!</span>
 
-## Who am I?
+## <span style="color: #1255ff">Who am I?</span>
 
 I'm a robotics enthusiast currently seeking higher education.
 
-## What do I do?
+## <span style="color: #1255ff">What do I do?</span>
 
 I work on various projects related to robotics, and I spend time on platforms such as YouTube, Coursera and Udemy learning new stuff. Learning something new feels amazing, doesn't it? 🔥
 
-## Some top projects:
+## <span style="color: #1255ff">Some top projects:</span>
 
 - Agribot (Agriculture Robot)
 - Neural Network based Quadcopter Controller
 - Shared Transport Management System
 - Robot for visual Odometry data collection
 
-## Programming languages and technologies
+## <span style="color: #1255ff">Programming languages and technologies</span>
 <a href="https://code.visualstudio.com/">
 	<img align="left" alt="VS Code" width="25px" src="images/vscode.png">
 </a>
@@ -34,7 +34,7 @@ I work on various projects related to robotics, and I spend time on platforms su
 <br>
 <br>
 
-### Connect with me:
+### <span style="color: #00fffb">Connect with me:</span>
 
 <br>
 <a href="https://www.linkedin.com/in/malolan-robotics/">
