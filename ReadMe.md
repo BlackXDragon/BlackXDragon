@@ -15,4 +15,14 @@ I work on various projects related to robotics, and I spend time on platforms su
 - Shared Transport Management System
 - Robot for visual Odometry data collection
 
-[Check out my complete profile here!](./profile.md)
+### Connect with me:
+
+<a href="https://www.linkedin.com/in/malolan-robotics/">
+  <img align="left" alt="LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />
+</a>
+<a href="https://www.reddit.com/user/N1ghtXDrag0n/">
+  <img align="left" alt="Reddit" width="22px" src="https://simpleicons.org/icons/reddit.svg" />
+</a>
+<a href="mailto:malolan98@gmail.com">
+  <img align="left" alt="Mail" width="22px" src="https://simpleicons.org/icons/gmail.svg" />
+</a>
