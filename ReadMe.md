@@ -17,13 +17,13 @@ I work on various projects related to robotics, and I spend time on platforms su
 
 ## Programming languages and technologies
 <a href="https://code.visualstudio.com/">
-	<img align="left" alt="VS Code" width="25px" src="https://simpleicons.org/icons/visualstudiocode.svg">
+	<img align="left" alt="VS Code" width="25px" src="images/vscode.png">
 </a>
 <a href="https://www.arduino.cc/">
-	<img align="left" alt="Arduino" width="25px" src="https://simpleicons.org/icons/arduino.svg">
+	<img align="left" alt="Arduino" width="25px" src="images/arduino.webp">
 </a>
 <a href="https://www.python.org/">
-	<img align="left" alt="Python" width="25px" src="https://simpleicons.org/icons/python.svg">
+	<img align="left" alt="Python" width="25px" src="images/python.webp">
 </a>
 <a href="">
 	<img align="left" alt="" width="25px" src="">
@@ -31,15 +31,16 @@ I work on various projects related to robotics, and I spend time on platforms su
 <a href="">
 	<img align="left" alt="" width="25px" src="">
 </a>
-
+<br>
+<br>
 ### Connect with me:
-
+<br>
 <a href="https://www.linkedin.com/in/malolan-robotics/">
-  <img align="left" alt="LinkedIn" width="25px" src="https://simpleicons.org/icons/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="25px" src="images/linkedin.png" />
 </a>
 <a href="https://www.reddit.com/user/N1ghtXDrag0n/">
-  <img align="left" alt="Reddit" width="25px" src="https://simpleicons.org/icons/reddit.svg" />
+  <img align="left" alt="Reddit" width="25px" src="images/reddit.png" />
 </a>
 <a href="mailto:malolan98@gmail.com">
-  <img align="left" alt="Mail" width="25px" src="https://simpleicons.org/icons/gmail.svg" />
+  <img align="left" alt="Mail" width="25px" src="images/gmail.png" />
 </a>
