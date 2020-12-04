@@ -33,7 +33,9 @@ I work on various projects related to robotics, and I spend time on platforms su
 </a>
 <br>
 <br>
+
 ### Connect with me:
+
 <br>
 <a href="https://www.linkedin.com/in/malolan-robotics/">
   <img align="left" alt="LinkedIn" width="25px" src="images/linkedin.png" />
