@@ -15,6 +15,13 @@ I work on various projects related to robotics, and I spend time on platforms su
 - Shared Transport Management System
 - Robot for visual Odometry data collection
 
+## Programming languages and technologies
+[![VS Code](https://simpleicons.org/icons/visualstudiocode.svg)](https://code.visualstudio.com/)
+[![Arduino](https://simpleicons.org/icons/arduino.svg)](https://www.arduino.cc/)
+[![Python](https://simpleicons.org/icons/python.svg)](https://www.python.org/)
+[![]()]()
+[![]()]()
+
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/malolan-robotics/">
