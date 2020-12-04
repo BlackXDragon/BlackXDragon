@@ -15,19 +15,4 @@ I work on various projects related to robotics, and I spend time on platforms su
 - Shared Transport Management System
 - Robot for visual Odometry data collection
 
-<table>
- <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
- </tr>
- <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
- </tr>
-</table>
-
-<style>
-table {
-	width: 100%;
-}
-</style>
+[Check out my complete profile here!](./profile.md)
